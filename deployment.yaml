@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: bot-app
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: bot-app
+  template:
+    metadata:
+      labels:
+        app: bot-app
+    spec:
+      containers:
+      - name: bot-app
+        image: ki3ani/bot-app:latest
+        ports:
+        - containerPort: 80
