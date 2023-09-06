@@ -1,4 +1,4 @@
-#!/home/ki3ani/stable-diffusion-bot/venv/bin/python
+#!/home/ki3ani/Generate-with-Kento/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

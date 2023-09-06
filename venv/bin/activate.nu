@@ -1,6 +1,6 @@
 # Setting all environment variables for the venv
 let path-name = (if ((sys).host.name == "Windows") { "Path" } { "PATH" })
-let virtual-env = "/home/ki3ani/stable-diffusion-bot/venv"
+let virtual-env = "/home/ki3ani/Generate-with-Kento/venv"
 let bin = "bin"
 let path-sep = ":"
 
@@ -38,4 +38,4 @@ let-env PROMPT_COMMAND = $new_prompt
 # We are using alias as the function definitions because only aliases can be
 # removed from the scope
 alias pydoc = python -m pydoc
-alias deactivate = source "/home/ki3ani/stable-diffusion-bot/venv/bin/deactivate.nu"
+alias deactivate = source "/home/ki3ani/Generate-with-Kento/venv/bin/deactivate.nu"
