@@ -45,7 +45,7 @@ Displays the general help information for the Discord bot.
 
 Use this command to invite the Discord bot to your server or another server.
 
-[Discord Invite](Invite me to your server using this link: https://discord.com/oauth2/authorize?client_id=1102551484941480037&scope=bot&permissions=2147863554)
+![Discord Invite](Invite me to your server using this link: https://discord.com/oauth2/authorize?client_id=1102551484941480037&scope=bot&permissions=2147863554)
 
 
 
@@ -56,7 +56,7 @@ To deploy this bot, follow these steps:
 
 1. Clone the repository.
 2. Dockerize the application.
-3. Configure environment variables on Discord and Replicate
+3. Configure environment variables on Discord and Replicate ( ![]
 
 ## Support
 
