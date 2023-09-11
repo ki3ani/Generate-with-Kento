@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a Discord bot capable of generating images using two distinct models: Kandinsky Model (Model 1) and Stability SDXL (Model 2). The bot has been dockerized for easy deployment and is hosted on Railway.
+This is a Discord bot capable of generating images using two distinct models: Kandinsky Model (Model 1) and Stability SDXL (Model 2) using the Replicate Api. The bot has been dockerized for easy deployment and is hosted on Railway.
 
 ## Table of Contents
 
@@ -56,7 +56,7 @@ To deploy this bot, follow these steps:
 
 1. Clone the repository.
 2. Dockerize the application.
-3. Deploy the Docker container on Railway.
+3. Configure environment variables on Discord and Replicate
 
 ## Support
 
