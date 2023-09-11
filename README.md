@@ -56,7 +56,7 @@ To deploy this bot, follow these steps:
 
 1. Clone the repository.
 2. Dockerize the application.
-3. Configure environment variables on Discord and Replicate ( ![]
+3. Configure environment variables on Discord and Replicate
 
 ## Support
 
