@@ -56,7 +56,7 @@ To deploy this bot, follow these steps:
 
 1. Clone the repository.
 2. Dockerize the application.
-3. Configure environment variables on Discord and Replicate ( ![]
+3. Configure environment variables on Discord and Replicate
 
 ## Support
 
@@ -74,6 +74,11 @@ This project is licensed under the [MIT License](LICENSE).
 
 Thank you for using this Discord AI Image Generating Bot! If you have any further questions or need assistance, don't hesitate to ask. Happy generating!
 
-![Screenshot 1](path_to_screenshot1.png)
-![Screenshot 2](path_to_screenshot2.png)
+![Screenshot 1](screenshot/discord-screenshot-1.png)
+![Screenshot 2](screenshot/discord-screenshot-2.png)
+![Screenshot 3](screenshot/discord-screenshot-3.png)
+![Screenshot 4](screenshot/discord-screenshot-4.png)
+![Screenshot 5](screenshot/discord-screenshot-5.png)
+
+
 
